@@ -1,4 +1,3 @@
-```
 # ee-me master
 
 **ee-me** is a script for FiveM that enables the **/me** command, which displays actions above players' heads.
